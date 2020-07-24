@@ -1,0 +1,13 @@
+---(start)
+Student1:
+  name: John
+  surname: Snow
+  age: 32
+  height: 1.7
+... (end) 
+amazon book store
+---
+book-types:
+  history: aaa, bbb, ccc
+  science: ddd, eee, fff
+  
