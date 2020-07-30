@@ -1,0 +1,11 @@
+19Tem2020-Python.Session-19: 
+1.45--modules
+1.56--Built in modules
+
+21Tem2020-Python.Session-20
+00.23--lambda
+00.38--package/module
+1.32-- working with files
+        read/write
+
+23Tem2020-Python.Session-21
